@@ -29,10 +29,4 @@ public class Main_2 {
 		}
 
 	}
-
-	private static boolean come(boolean b) {
-		// TODO Auto-generated method stub
-		return false;
-	}
-
 }
